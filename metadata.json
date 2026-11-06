@@ -1,0 +1,8 @@
+{
+  "name": "Sought Consult 1",
+  "description": "Professional plumbing and emergency repair services website based on the Kangpipa design specification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
